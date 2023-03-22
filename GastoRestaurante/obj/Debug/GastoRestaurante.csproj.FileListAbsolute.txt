@@ -1,0 +1,10 @@
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\bin\Debug\GastoRestaurante.exe.config
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\bin\Debug\GastoRestaurante.exe
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\bin\Debug\GastoRestaurante.pdb
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.csproj.AssemblyReference.cache
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.GastoRestaurante.resources
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.Properties.Resources.resources
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.csproj.GenerateResource.cache
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.csproj.CoreCompileInputs.cache
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.exe
+E:\3P-ADS_Noturno\GastoRestaurante\GastoRestaurante\obj\Debug\GastoRestaurante.pdb
